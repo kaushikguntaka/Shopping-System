@@ -1,0 +1,5 @@
+com\gkr\springcloud\controllers\ProductRestController.class
+com\gkr\springcloud\dto\Coupon.class
+com\gkr\springcloud\model\Product.class
+com\gkr\springcloud\ProductserviceApplication.class
+com\gkr\springcloud\repos\ProductRepo.class
